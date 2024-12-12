@@ -1,5 +1,5 @@
 {
-  "name": "corestaff-backend",
+  "name": "core-staff-backend",
   "version": "1.0.0",
   "description": "Backend for CoreStaff project",
   "main": "server.js",
